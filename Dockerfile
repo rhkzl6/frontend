@@ -7,4 +7,4 @@ CMD wget http://100.100.100.100:8888/default.conf -O /etc/nginx/conf.d/default.c
 
 # CMD wget http://192.168.123.124:8888/default.conf -O /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'
 
-#sadasdddccdd
+#sadasdddccdddd
