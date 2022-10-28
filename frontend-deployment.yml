@@ -23,5 +23,3 @@ spec:
           cpu: 100m
         limits:
           cpu: 200m
-
-          #dasdas
