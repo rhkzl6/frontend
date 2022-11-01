@@ -14,7 +14,7 @@ spec:
    spec:
     containers:
     - name: frontend
-      image: rhkzl/frontend:6
+      image: rhkzl/frontend:latest
       envFrom:
       ports:
       - containerPort: 80
